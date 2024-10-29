@@ -1,5 +1,4 @@
-
-![logo](https://github.com/zeeshan2266/Zeeshan-Ahmad/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/zeeshan2266/zeeshan2266/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" align="right" width="400" alt="codingif">
