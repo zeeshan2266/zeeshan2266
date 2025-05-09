@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" align="right" width="400" alt="codingif">
 - 🔭 I’m currently working on **Database management system ,AWS etc**
 
-- 🌱 I’m currently learning **React,Java and springboot then React-Native**
+- 🌱 I’m currently learning **React,Java and springboot then React-js**
 
 - 👯 I’m looking to collaborate on [School management system](127.29.18)
 
