@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Artificial intelligence](Artificial intelligence)
 
-- 💬 Ask me about **React,JavaScript, HTML, CSS ,git-hub, Bitbucket**
+- 💬 Ask me about **React,JavaScript, HTML, CSS ,git-hub, Bitbucket**,Codechef
 
 - 📫 How to reach me **za9414918@gmail.com**
 
