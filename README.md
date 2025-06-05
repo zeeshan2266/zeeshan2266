@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Database management system ,AWS,Microsoft etc**
 
 
-- 🌱 I’m currently learning **React,Java and springboot then React-js**zzzzzz
+- 🌱 I’m currently learning **React,Java and springboot then React-js**zzzzzzz
 - 
 
 - 👯 I’m looking to collaborate on [School management system] hesabbook.com
