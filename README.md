@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React,Java and springboot then React-js**zzzzzz
 - 
 
-- 👯 I’m looking to collaborate on [School management system](127.29.18)
+- 👯 I’m looking to collaborate on [School management system] hesabbook.com
 
 - 📝 I regularly write articles on [Artificial intelligence](Artificial intelligence)
 
