@@ -1,3 +1,4 @@
+
 ![logo](https://github.com/zeeshan2266/zeeshan2266/blob/main/github-header-image%20(2).png)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zeeshan+Ahmad" alt="Typing SVG">
@@ -5,7 +6,7 @@
 <h3 align="center">Passionate Frontend Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zeeshan226/zeeshan226/main/assets/header-animation.gif" width="700" alt="Header Animation">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="Coding Animation">
 </div>
 
 ---
@@ -122,16 +123,6 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=zeeshan226&style=flat-square&color=blue" alt="Profile Views">
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan226/zeeshan226/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshan226/zeeshan226/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/zeeshan226/zeeshan226/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
